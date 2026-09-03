@@ -6,8 +6,10 @@
 <!--  -->
 <table align="right">
   <tr>
-    <td>
-      <img src="./hanni-pham.gif" width="210" alt="Hanni" />
+    <td align="center" style="padding: 10px;" border-radius="12px"
+      <a href="#">
+        <img src="./hanni-pham.gif" width="200" hspace="20" vspace="10" alt="Hanni" />
+      </a>
     </td>
   </tr>
 </table>
