@@ -4,30 +4,28 @@
   </a>
 </div>
 <!--  -->
-<table align="right">
+<table style="border:0;">
   <tr>
-    <td align="center" style="padding: 10px;" border-radius="12px"
-      <a href="#">
-        <img src="./hanni-pham.gif" width="200" hspace="20" vspace="10" alt="Hanni" />
-      </a>
+    <td style="border:0;">
+      <h3>
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22" align="center" /> About Me
+      </h3>
+      <p align="justify">
+        I am a Computer Science Student actively expanding my skills and knowledge in the Software Engineering field. I am passionate about learning and building creative, innovative, and functional products transforming ideas into tangible end-results with strong design taste.
+      </p>
+    </td>
+    <td width="40%" align="center" valign="middle" style="border:0;">
+      <img src="./hanni-pham.gif" width="220" alt="Hanni"/>
     </td>
   </tr>
 </table>
 
 <h3>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" text-align="center" /> 
-  About Me
-</h3>
-
-<p align="justify">I am a Computer Science Student actively expanding my skills and knowledge in the Software Engineering field. I am passionate about learning and building creative, innovative, and functional products transforming ideas into tangible end-results with strong design taste.</p>
-
-<h3>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHl3eTdwd3h3OWpkaGVrZmpjc25mMzNhamw5emZtY2lkcDJxYzl3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tZbMDTBtu3WxaHTK3w/giphy.gif" width="20" text-align="center" /> 
-  Quick Facts
-</h3>
-
-- 🌱 **Currently Learning:** Deep diving into **React** & **TypeScript** to level up my full-stack capabilities.
-- 💼 **Career Goal:** Open for **Software Engineer Internship** and **Freelance** opportunities.
-- 🎨 **Outside of Code:** When I’m not debugging, I’m usually doing visual design, editing videos/clips, or chilling with good music.
-- 💬 **Ask Me About:** Web development, software design, or anything tech-related—happy to connect and share ideas!
-- 📫 **How to Reach Me:** Feel free to drop a message at [bahtiarrifaii06@gmail.com](mailto:bahtiarrifaii06@gmail.com)
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm55a3d2dXM3bjBwMnYzYmdwZmJjdDJldnIzMGpjNGlydHB2OWw2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LlngFXftGiC6Ha4Wit/giphy.gif" width="22" align="center" /> Quick Facts
+      </h3>
+      <ul>
+        <li>🌱 I'm currently learning Typescript and Reac.</li>
+        <li>💼 Open for Software Engineer Internship and Freelance opportunities.</li>
+        <li>🎨 When I’m not debugging, I’m usually doing visual design, editing videos/clips, or chilling with good music.</li>
+        <li>📫 Feel free to drop a message at <a href="mailto:bahtiarrifaii06@gmail.com">bahtiarrifaii06@gmail.com</a>.</li>
+      </ul>
