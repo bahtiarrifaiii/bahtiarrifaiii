@@ -4,7 +4,13 @@
   </a>
 </div>
 <!--  -->
-<img align="right" width="250" alt="Hanni" src="./hanni-pham.gif" style="border: 2px solid #ffffff; border-radius: 12px; margin-top: 10px; margin-left: 10px;" />
+<table align="right">
+  <tr>
+    <td>
+      <img src="./hanni-pham.gif" width="210" alt="Hanni" />
+    </td>
+  </tr>
+</table>
 
 <h3>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" text-align="center" /> 
