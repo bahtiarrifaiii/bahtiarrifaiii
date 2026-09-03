@@ -4,7 +4,7 @@
   </a>
 </div>
 <!--  -->
-<img align="right" width=300px alt="Hanni" src="https://media1.tenor.com/m/9UKXgOmrGDMAAAAd/hannibal-hanni-pham.gif" />
+<img align="right" width="300" alt="Hanni" src="./hanni-pham.gif" />
 
 <h3>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" text-align="center" /> 
