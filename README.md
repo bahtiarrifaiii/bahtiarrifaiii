@@ -4,7 +4,7 @@
   </a>
 </div>
 <!--  -->
-<img align="right" width="200" alt="Hanni" src="./hanni-pham.gif" style="border: 2px solid #ffffff; border-radius: 12px; margin-top: 10px;" />
+<img align="right" width="250" alt="Hanni" src="./hanni-pham.gif" style="border: 2px solid #ffffff; border-radius: 12px; margin-top: 10px; margin-left: 10px;" />
 
 <h3>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" text-align="center" /> 
@@ -14,7 +14,7 @@
 <p align="justify">I am a Computer Science Student actively expanding my skills and knowledge in the Software Engineering field. I am passionate about learning and building creative, innovative, and functional products transforming ideas into tangible end-results with strong design taste.</p>
 
 <h3>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2lpd3Q4YmNvMDBrbWM3YnZnejEzaWdzYTB0cXY5c3ljY3o0cndkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tZbMDTBtu3WxaHTK3w/giphy.gif" width="20" align="center" /> 
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHl3eTdwd3h3OWpkaGVrZmpjc25mMzNhamw5emZtY2lkcDJxYzl3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tZbMDTBtu3WxaHTK3w/giphy.gif" width="20" text-align="center" /> 
   Quick Facts
 </h3>
 
