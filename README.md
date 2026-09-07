@@ -8,7 +8,7 @@
   <tr>
     <td align="center" colspan="2">
       <h3 style="font-style: italic;">
-        <img src="https://img.icons8.com/?size=100&id=feCiexR5BQBi&format=png&color=000000" width="30" valign="middle" /> &nbsp; About me
+        <img src="https://img.icons8.com/?size=100&id=feCiexR5BQBi&format=png&color=FFFFFF" width="30" valign="middle" /> &nbsp; About me
       </h3>
     </td>
   </tr>
@@ -31,30 +31,18 @@
 <!-- Section Technologies -->
 <div align="center">
   <h3 style="font-style: italic; margin-top: 50px; margin-bottom: 30px;
-    <img src="https://img.icons8.com/?size=100&id=e3sIEq8XA0p0&format=png&color=000000" width="30" valign="middle" /> &nbsp; Technologies
+    <img src="https://img.icons8.com/?size=100&id=e3sIEq8XA0p0&format=png&color=FFFFFF" width="30" valign="middle" /> &nbsp; Technologies
   </h3>
 
   <!-- Programming Languages -->
   <p>
     <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </p>
-
-  <!-- Frontend & Frameworks -->
-  <p>
     <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  </p>
-
-  <!-- Backend & Database -->
-  <p>
     <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  </p>
-
-  <!-- Tools -->
-  <p>
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   </p>
