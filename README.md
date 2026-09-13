@@ -30,9 +30,11 @@
 </table>
 <!-- Section Technologies -->
 <div align="center">
-    ##<img src="https://img.icons8.com/?size=100&id=RJFBrccWKkye&format=png&color=FFFFFF" width="26" valign="middle" /> *Technologies*
+  <h2 style="border-bottom: 1px solid #30363d; padding-bottom: 10px; margin-top: 40px; margin-bottom: 25px;">
+    <img src="https://img.icons8.com/?size=100&id=RJFBrccWKkye&format=png&color=FFFFFF" width="28" valign="middle" /> <i>Technologies</i>
+  </h2>
 
-  <!-- Programming Languages -->
+  <!-- Programming Languages & Frontend -->
   <p>
     <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -41,11 +43,11 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   </p>
 
+  <!-- Backend & Tools -->
   <p>
     <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-
   </p>
 </div>
