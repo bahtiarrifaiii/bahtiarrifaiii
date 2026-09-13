@@ -31,7 +31,7 @@
 <!-- Section Technologies -->
 <div align="center">
   <h3 style="border-bottom: 1px solid #30363d; padding-bottom: 10px; margin-top: 40px; margin-bottom: 25px;">
-    <img src="https://img.icons8.com/?size=100&id=RJFBrccWKkye&format=png&color=FFFFFF" width="28" valign="middle" /> &nbsp; <i>Technologies</i>
+    <img src="https://img.icons8.com/?size=100&id=RJFBrccWKkye&format=png&color=FFFFFF" width="28" valign="middle" /> <i>Technologies</i>
   </h3>
 
   <!-- Programming Languages & Frontend -->
