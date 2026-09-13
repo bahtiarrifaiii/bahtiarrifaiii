@@ -30,10 +30,10 @@
 </table>
 <!-- Section Technologies -->
 <div align="center">
-  <h3 style="font-style: italic; margin-top: 50px; margin-bottom: 30px;">
-    <img src="https://img.icons8.com/?size=100&id=RJFBrccWKkye&format=png&color=FFFFFF" width="28" valign="middle" /> &nbsp; Technologies
+  #<h3 style="font-style: italic; margin-top: 50px; margin-bottom: 30px;">
+    <img src="https://img.icons8.com/?size=100&id=RJFBrccWKkye&format=png&color=FFFFFF" width="26" valign="middle" /> &nbsp; Technologies
   </h3>
-  <!--  -->
+
   <!-- Programming Languages -->
   <p>
     <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
