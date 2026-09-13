@@ -7,8 +7,8 @@
 <table border="0">
   <tr>
     <td align="center" colspan="2">
-      <h3 style="font-style: italic;">
-        <img src="https://img.icons8.com/?size=100&id=feCiexR5BQBi&format=png&color=FFFFFF" width="28" valign="middle" /> &nbsp; About me
+      <h3>
+        <img src="https://img.icons8.com/?size=100&id=feCiexR5BQBi&format=png&color=FFFFFF" width="28" valign="middle" /> <i>About me</i>
       </h3>
     </td>
   </tr>
@@ -30,9 +30,9 @@
 </table>
 <!-- Section Technologies -->
 <div align="center">
-  <h2 style="border-bottom: 1px solid #30363d; padding-bottom: 10px; margin-top: 40px; margin-bottom: 25px;">
+  <h3 style="border-bottom: 1px solid #30363d; padding-bottom: 10px; margin-top: 40px; margin-bottom: 25px;">
     <img src="https://img.icons8.com/?size=100&id=RJFBrccWKkye&format=png&color=FFFFFF" width="28" valign="middle" /> <i>Technologies</i>
-  </h2>
+  </h3>
 
   <!-- Programming Languages & Frontend -->
   <p>
